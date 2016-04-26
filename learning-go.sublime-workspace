@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"Prin",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"fun",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"func",
+				"func (*T)	func (...) {...} ʂ"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"P",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Abs",
+				"AbsFunc	float64 ƒ"
+			],
+			[
+				"f",
+				"func (*Vertex)	func (...) {...} ʂ"
+			],
+			[
+				"Sacle",
+				"ScaleFunc	 ƒ"
+			],
+			[
 				"pro",
 				"projectId"
 			],
@@ -28,16 +60,8 @@
 				"positive	func(int) int ν"
 			],
 			[
-				"p",
-				"picture	[]uint8 ν"
-			],
-			[
 				"Pr",
 				"Printf	n int, err error ƒ"
-			],
-			[
-				"func",
-				"func main	func main {...} ʂ"
 			],
 			[
 				"m",
@@ -118,10 +142,6 @@
 			[
 				"testrun",
 				"testRuns"
-			],
-			[
-				"P",
-				"ProjectsCtrl"
 			],
 			[
 				"brow",
@@ -424,10 +444,6 @@
 				"devConfigFile"
 			],
 			[
-				"fun",
-				"function"
-			],
-			[
 				"background",
 				"backgroundScripts"
 			],
@@ -498,22 +514,6 @@
 			[
 				"font",
 				"font-size"
-			],
-			[
-				"marign",
-				"margin-left"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"padd",
-				"padding-left"
-			],
-			[
-				"inlin",
-				"inline-block"
 			]
 		]
 	},
@@ -527,8 +527,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 327.0,
-		"last_filter": "color",
+		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -536,12 +536,24 @@
 				"Colorsublime: Install Theme"
 			],
 			[
-				"theme",
-				"Themr: List themes"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"sublim",
+				"GoSublime: Show errors"
+			],
+			[
+				"sublime linter",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"theme",
+				"Themr: List themes"
 			],
 			[
 				"preview",
@@ -620,10 +632,6 @@
 				"GitGutter: Compare Against HEAD"
 			],
 			[
-				"git",
-				"GitGutter: Compare Against Branch"
-			],
-			[
 				"bash",
 				"Set Syntax: Shell Script (Bash)"
 			],
@@ -685,10 +693,26 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/zahid/go/src/github.com/zahid/learning-go"
 	],
 	"file_history":
 	[
+		"/Users/zahid/go/src/github.com/zahid/learning-go/pointers.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/interface-values.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/interfaces-are-satisfied-implicitly.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/interfaces.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/methods-with-pointer-receivers.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/indirection-values.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/indirection.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/methods-pointers-explained.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/methods-pointers.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/methods-continued.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/methods.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/methods-funcs.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/maps.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/exercise-slices.go",
+		"/Users/zahid/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/nil-slices.go",
+		"/Users/zahid/go/src/github.com/zahid/learning-go/exercise-maps.go",
 		"/Users/zahid/projects/mastodon-alpha/server/models/job.js",
 		"/Users/zahid/projects/mastodon-alpha/client/Dockerfile",
 		"/Users/zahid/projects/mastodon-alpha/server/controllers/project.controller.js",
@@ -720,16 +744,12 @@
 		"/Users/zahid/go/src/github.com/zahid/learning-go/exercise-fibonacci-numbers.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/function-closures.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/function-values.go",
-		"/Users/zahid/go/src/github.com/zahid/learning-go/exercise-maps.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/mutating-maps.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/map-literals-continued.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/map-literals.go",
-		"/Users/zahid/go/src/github.com/zahid/learning-go/maps.go",
-		"/Users/zahid/go/src/github.com/zahid/learning-go/exercise-slices.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/range-continued.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/range.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/append.go",
-		"/Users/zahid/go/src/github.com/zahid/learning-go/nil-slices.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/making-slices.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/slices-slices.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/slices-of-slices.go",
@@ -739,7 +759,6 @@
 		"/Users/zahid/go/src/github.com/zahid/learning-go/struct-pointers.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/struct-fields.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/struct.go",
-		"/Users/zahid/go/src/github.com/zahid/learning-go/pointers.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/defer-multi.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/defer.go",
 		"/Users/zahid/go/src/github.com/zahid/learning-go/switch-with-no-condition.go",
@@ -804,23 +823,11 @@
 		"/Users/zahid/projects/mastodon-alpha/server/models/testRun.spec.js",
 		"/Users/zahid/projects/mastodon-alpha/do-over.sh",
 		"/Users/zahid/projects/mastodon-alpha/workers/score/test/README.md",
-		"/Users/zahid/projects/mastodon-alpha/test/package.json",
-		"/Users/zahid/projects/mastodon-alpha/server/models/profile.js",
-		"/Users/zahid/projects/mastodon-alpha/server/models/user.spec.js",
-		"/Users/zahid/projects/screenshots-example/index.js",
-		"/Users/zahid/projects/screenshots-example/Dockerfile",
-		"/Users/zahid/projects/screenshots-example/package.json",
-		"/Users/zahid/Downloads/v1.0.1/admin_html/angular/app/views/index.js",
-		"/Users/zahid/projects/mastodon-alpha/server/hey",
-		"/Users/zahid/projects/mastodon-alpha/server/node_modules/is-stream/readme.md",
-		"/Users/zahid/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/zahid/projects/mastodon-alpha/server/docker-copy.sh",
-		"/Users/zahid/projects/mastodon-alpha/server/hello.txt",
-		"/Users/zahid/projects/mastodon-alpha/server/.dockerignore"
+		"/Users/zahid/projects/mastodon-alpha/test/package.json"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -858,6 +865,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"name",
+			"thing",
+			"name",
+			"+v",
+			"v",
+			"name",
+			"float64",
+			"Abs",
+			"X",
+			"name",
 			"projectId",
 			"log",
 			"index",
@@ -975,17 +992,7 @@
 			"getNextPage",
 			"console.log('went to matrix[%s][%s]', vm.pageIndex, vm.profileIndex);",
 			"// vm.activeJob = vm.testRun.matrix[vm.pageIndex][vm.profileIndex];",
-			"vm.activeJob = vm.testRun.matrix[vm.pageIndex][vm.profileIndex];",
-			"testRun.matrix",
-			"Page",
-			"primary",
-			" : ",
-			"jobsIds",
-			"profile",
-			"profileIndex",
-			"pageIndex",
-			"page",
-			"Page"
+			"vm.activeJob = vm.testRun.matrix[vm.pageIndex][vm.profileIndex];"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -996,7 +1003,7 @@
 			"goToNextPage",
 			"initializeCapture"
 		],
-		"reverse": false,
+		"reverse": true,
 		"show_context": true,
 		"use_buffer2": true,
 		"whole_word": false,
@@ -1012,7 +1019,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -1057,7 +1064,7 @@
 	"project": "learning-go.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1123,7 +1130,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 332.0,
+	"side_bar_width": 274.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

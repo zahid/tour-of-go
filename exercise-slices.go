@@ -1,24 +1,27 @@
 package main
 
 import (
+	"fmt"
 	"golang.org/x/tour/pic"
 )
 
 func Pic(dx, dy int) [][]uint8 {
-    var picture = make([]uint8, dx)
-    for i := 0, i < dy; i++ {
-        picture = append(picture make([]uint8, dy))
-    }
+	var picture = make([][]uint8, dy)
 
-    // for i := 0; i < len(picture); i++ {
-    //     for j := 0; len(picture[i]); j++ {
-
-    //     }
-    // }
-    return picture
+	for i := 0; i < dy; i++ {
+		picture[i] = make([]uint8, dx)
+	}
+	fmt.Println(picture)
+	for y := 0; y < dy; y++ {
+		for x := 0; x < dx; x++ {
+			intValue := ((x + y) / 2)
+			//intValue := ((x * y))
+			picture[y][x] = uint8(intValue)
+		}
+	}
+	return picture
 }
 
 func main() {
-    pic.Show(Pic)
+	pic.Show(Pic)
 }
-

@@ -15,6 +15,6 @@ func main() {
 
 	v, ok := m["Answer"]
 
-	fmt.Printf("Val %d present %s\n", v, ok)
+	fmt.Printf("Val %d present %v\n", v, ok)
 
 }
